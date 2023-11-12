@@ -74,7 +74,7 @@ This repository contains System Design articles and videos which are useful duri
 - [Design Google Maps](https://www.youtube.com/watch?v=jk3yvVfNvds)
 - [Design Zoom](https://www.youtube.com/watch?v=G32ThJakeHk)
 - [Design File Sharing System like Dropbox](https://www.youtube.com/watch?v=U0xTu6E2CT8)
-- [Design Ticket Booking System like BookMyShow](https://www.youtube.com/watch?v=lBAwJgoO3Ek)
+- [Design Ticket Booking System like BookMyShow {Tech Dummies}](https://www.youtube.com/watch?v=lBAwJgoO3Ek)
 - [Design Distributed Web Crawler](https://www.youtube.com/watch?v=BKZxZwUgL3Y)
 - [Design Code Deployment System](https://www.youtube.com/watch?v=q0KGYwNbf-0)
 - [Design Distributed Cloud Storage like S3](https://www.youtube.com/watch?v=UmWtcgC96X8)
