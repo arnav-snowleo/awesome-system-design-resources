@@ -67,8 +67,8 @@ This repository contains System Design articles and videos which are useful duri
 - [Design Notification Service](https://www.youtube.com/watch?v=CUwt9_l0DOg)
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
 ### Hard
-- [Design Location Based Service like Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
-- [Design Uber](https://www.youtube.com/watch?v=umWABit-wbk)
+- [Design Location Based Service like Yelp {ByteByteGo}](https://www.youtube.com/watch?v=M4lR_Va97cQ)
+- [Design Uber {Tech Dummies}](https://www.youtube.com/watch?v=umWABit-wbk)
 - [Design Food Delivery App like Doordash {Gaurav Sen}](https://www.youtube.com/watch?v=iRhSAR3ldTw)
 - [Design Google Docs {Tech Dummies}](https://www.youtube.com/watch?v=2auwirNBvGg)
 - [Design Google Maps {codekarle}](https://www.youtube.com/watch?v=jk3yvVfNvds)
