@@ -36,7 +36,7 @@ This repository contains System Design articles and videos which are useful duri
 - [Design Text Storage Service like Pastebin](https://www.youtube.com/watch?v=josjRSBqEBI)
 - [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
 - [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
-- [Design Vending Machine](https://www.youtube.com/watch?v=D0kDMUgo27c)
+- [Design Vending Machine](https://www.youtube.com/watch?v=D0kDMUgo27c) [Riddhi Dutta](https://www.youtube.com/watch?v=8CcB3xAt9p4)
 - [Design Distributed Key-Value Store](https://www.youtube.com/watch?v=rnZmdmlR-2M)
 - [Design Distributed Cache](https://www.youtube.com/watch?v=iuqZvajTOyA)
 - [Design Distributed Job Scheduler](https://towardsdatascience.com/ace-the-system-design-interview-job-scheduling-system-b25693817950)
