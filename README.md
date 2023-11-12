@@ -69,9 +69,9 @@ This repository contains System Design articles and videos which are useful duri
 ### Hard
 - [Design Location Based Service like Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
 - [Design Uber](https://www.youtube.com/watch?v=umWABit-wbk)
-- [Design Food Delivery App like Doordash](https://www.youtube.com/watch?v=iRhSAR3ldTw)
-- [Design Google Docs](https://www.youtube.com/watch?v=2auwirNBvGg)
-- [Design Google Maps](https://www.youtube.com/watch?v=jk3yvVfNvds)
+- [Design Food Delivery App like Doordash {Gaurav Sen}](https://www.youtube.com/watch?v=iRhSAR3ldTw)
+- [Design Google Docs {Tech Dummies}](https://www.youtube.com/watch?v=2auwirNBvGg)
+- [Design Google Maps {codekarle}](https://www.youtube.com/watch?v=jk3yvVfNvds)
 - [Design Zoom](https://www.youtube.com/watch?v=G32ThJakeHk)
 - [Design File Sharing System like Dropbox](https://www.youtube.com/watch?v=U0xTu6E2CT8)
 - [Design Ticket Booking System like BookMyShow {Tech Dummies}](https://www.youtube.com/watch?v=lBAwJgoO3Ek)
