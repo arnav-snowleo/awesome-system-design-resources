@@ -32,7 +32,7 @@ This repository contains System Design articles and videos which are useful duri
 
 ## System Design Interview Problems
 ### Easy
-- [Design URL Shortener like TinyURL](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
+- [Design URL Shortener like TinyURL](https://www.youtube.com/watch?v=fMZMm_0ZhK4) [{Tech Dummies}](https://www.youtube.com/watch?v=JQDHz72OA3c)
 - [Design Text Storage Service like Pastebin](https://www.youtube.com/watch?v=josjRSBqEBI)
 - [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
 - [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
